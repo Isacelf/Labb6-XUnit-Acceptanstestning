@@ -33,7 +33,7 @@
 5. Tryck på Enter.
 
 **Förväntat resultat:**
-- Applikationen ska visa "Kan inte dela med noll.".
+- Applikationen ska visa resultatet 0, då det inte går att dela med 0.
 - Beräkningen "55,5 / 0 = Kan inte dela med noll." ska sparas i historiken.
 
 ## Enhetstester
